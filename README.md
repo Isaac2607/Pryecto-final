@@ -111,3 +111,32 @@ Funciona en cualquier servidor Discord donde tenga permisos.
 
 Compatible con Python 3.10+ (o 3.8+ con discord.py).
 
+
+
+
+# Presentacion final
+
+## Titulo
+Bot de discord para calcular el tax
+
+## Description
+Este es un bot de discord que tiene el proposito de ayudarte a hacer calculaciones rapidas de el precio de cualquier cosa tomando en cuenta el tax del lugar seleccionado
+
+## Autor
+Isaac Joel Otero Figueroa
+
+## Finalidad 
+Quiero que este bot se uso como una base para calculadoras que hagan especificos tipos de calculaciones automaticamente y ayuden a personas como yo que tienen problemas para entender las matematicas en hacer las tareas cotidianas que requieren el uso de estas.
+
+## Usos
+1.Simplificar el proceso de calcular cuanto algo te va a costar algo incuyendo el tax para personas con dificultad en la matematica.
+
+2.Recopilar el ivu de varios paises en un solo lugar para tener los datos en un solo lugar y simplificar la me=anejacion de estos.
+
+## Funciones
+
+La funcion primaria de mi bot es la habilidad de calcular el precio determinado por el usuaro usando el comando !precio. Ejemplo: !precio 100 españa. Esto es realizado por el bot usando una base de datos interna que busca el pais selecionado por el usuario (si esta disponible) y hace la calculacion de cual seria el precio final tomado esos factores. Tambien puedes ver la lista de los paises y los ivus de estos usando el comando !paises y !vat respectivamente. Si quieres ver todos estos comandos y su descripcion usa el comando, !comandos.
+
+
+
+
