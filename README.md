@@ -147,15 +147,15 @@ La funcion primaria de mi bot es la habilidad de calcular el precio determinado 
 <img width="1920" height="1080" alt="Captura de pantalla (46)" src="https://github.com/user-attachments/assets/9ada9516-0262-4cc0-816b-0021334abf02" />
 
 ## Ejemplo del comando !vat
+<img width="1920" height="1080" alt="Captura de pantalla (48)" src="https://github.com/user-attachments/assets/32865a87-59ea-4420-8785-17d6e7f1b84c" />
 
-<img width="1920" height="1080" alt="Captura de pantalla (47)" src="https://github.com/user-attachments/assets/437ecf73-a895-4e6a-95cb-4829489b8377" />
 
 ## Ejemplo del comando !comandos
-
-<img width="1920" height="1080" alt="Captura de pantalla (48)" src="https://github.com/user-attachments/assets/32865a87-59ea-4420-8785-17d6e7f1b84c" />
+<img width="1920" height="1080" alt="Captura de pantalla (47)" src="https://github.com/user-attachments/assets/437ecf73-a895-4e6a-95cb-4829489b8377" />
 
 # Conclusion
 
 Esto es un proyecto que vino de un lugar muy personal para mi ya que estoy avazando a mi etapa adulta y eso implica hacerse responsable de uno mismo. Incluyendo las finanzas personales. Pero yo nunca he cido muy bueno en las matematicas siempre han cida confusas inclusos mientras crecia donde simplemente se añadian mas conceptos a la matematica como letras que simplemente la hacian mas dificil de entender para mi. Y ahora que estoy tratando manejar mi propio dinero estoy tratando de entender cuanto cuestan las cosas y unas de las primeras cosas que me intereso fue el ivu ya que se me hacia extraño como algo puede tener un precio ya fijo pero puede costar mas. cuando vino el momento de hacer el proyecto final una de las primeras cosas que se me fue a la mente fue este bot ya que pense que seria muy conveniente si simplemente podria semi-automatizar el proceso de calcular el valor de algo con la iva sin ser tan complicado. Yo creo que este bot seria muy util para personas como yo que tienen problemas con las matematica y aun haci estan interesados en manejar sus finanzas
+
 
 
