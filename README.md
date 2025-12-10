@@ -131,7 +131,7 @@ Quiero que este bot se use como una base para calculadoras que hagan especificos
 ## Usos
 1.Simplificar el proceso de calcular cuanto algo te va a costar incuyendo el tax para personas con dificultad en la matematica.
 
-2.Recopilar el ivu de varios paises en un solo lugar para tener los datos en un solo lugar y simplificar la manejacion de estos.
+2.Recopilar el ivu de varios paises en un solo lugar para mayor organizacion y simplificar la manejacion de estos.
 
 ## Funciones
 
@@ -157,7 +157,8 @@ La funcion primaria de mi bot es la habilidad de calcular el precio determinado 
 
 # Conclusion
 
-Esto es un proyecto que vino de un lugar muy personal para mi ya que estoy avazando a la etapa adulta de mi vida y eso implica hacerse responsable de uno mismo. Incluyendo las finanzas personales. Pero yo nunca he cido muy bueno en las matematicas siempre han cida confusas incluso se pusieron mas confusas para mi mientras crecia donde simplemente se añadian mas conceptos a la matematica como letras que simplemente la hacian mas dificil de entender para mi. Y ahora que estoy tratando manejar mi propio dinero estoy tratando de entender cuanto cuestan las cosas y unas de las primeras cosas que me intereso fue el ivu ya que se me hacia extraño como algo puede tener un precio ya fijo pero puede costar mas. cuando vino el momento de hacer el proyecto final una de las primeras cosas que se me fue a la mente fue este bot ya que pense que seria muy conveniente si simplemente podria semi-automatizar el proceso de calcular el valor de algo con la iva sin ser tan complicado. Yo creo que este bot seria muy util para personas como yo que tienen problemas con las matematica y aun haci estan interesados en manejar sus finanzas
+Esto es un proyecto que vino de un lugar muy personal para mi ya que estoy avazando a la etapa adulta de mi vida y eso implica hacerse responsable de uno mismo. Incluyendo las finanzas personales. Pero yo nunca he cido muy bueno en las matematicas siempre han cida confusas incluso se pusieron mas confusas para mi mientras crecia donde simplemente se añadian mas conceptos a la matematica como letras que simplemente la hacian mas dificil de entender para mi. Y ahora que estoy tratando manejar mi propio dinero estoy tratando de entender cuanto cuestan las cosas y unas de las primeras cosas que me intereso fue el ivu ya que se me hacia extraño como algo puede tener un precio ya fijo pero puede costar mas. cuando vino el momento de hacer el proyecto final una de las primeras cosas que se me fue a la mente fue este bot ya que pense que seria muy conveniente si simplemente podria semi-automatizar el proceso de calcular el valor de algo con la iva sin ser tan complicado. Yo creo que este bot seria muy util para personas como yo que tienen problemas con las matematicas y aun haci estan interesados en manejar sus finanzas
+
 
 
 
